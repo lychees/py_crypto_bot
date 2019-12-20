@@ -1,0 +1,13 @@
+[[source]]
+verify_ssl = true
+url = "https://mirrors.aliyun.com/pypi/simple/"
+name = "pypi"
+
+[dev-packages]
+
+[packages]
+python-telegram-bot = "*"
+requests = "*"
+arrow = "*"
+matplotlib = "*"
+beaker = "*"
